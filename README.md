@@ -2,6 +2,8 @@
 O projeto "EducaTroca" propõe o desenvolvimento de uma plataforma web de colaboração e aprendizado entre estudantes, visando atender à necessidade de compartilhamento de informações e apoio mútuo entre aqueles que enfrentam desafios acadêmicos.
 educatroca
 
+##
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
